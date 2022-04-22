@@ -1,0 +1,16 @@
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\BLL.dll
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\BLL.pdb
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\AutoMapper.dll
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\BEL.dll
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\DAL.dll
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\EntityFramework.dll
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\BEL.pdb
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\DAL.pdb
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\DAL.dll.config
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\AutoMapper.xml
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\bin\Debug\EntityFramework.xml
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\obj\Debug\BLL.dll
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BLL\obj\Debug\BLL.pdb

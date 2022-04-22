@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2fae70bda7c74b7db73776844a2a29b4" Name="Diagram1">
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Admin" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Applicant" Width="1.5" PointX="5.25" PointY="22.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Category" Width="1.5" PointX="1.5" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Comment" Width="1.5" PointX="5.25" PointY="27.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Employee" Width="1.5" PointX="3" PointY="17.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Following" Width="1.5" PointX="3" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Follow" Width="1.5" PointX="3" PointY="24" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Job" Width="1.5" PointX="3" PointY="26.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Message" Width="1.5" PointX="3" PointY="30" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.OrderDetail" Width="1.5" PointX="8.25" PointY="18.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.OrderHead" Width="1.5" PointX="6" PointY="18.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Post" Width="1.5" PointX="3" PointY="36.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Product" Width="1.5" PointX="0.75" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.React" Width="1.5" PointX="8.25" PointY="27.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Reply" Width="1.5" PointX="7.5" PointY="22.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.Request" Width="1.5" PointX="3" PointY="39.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.ShoppingCart" Width="1.5" PointX="3" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Friend_Finder_Social_MedialModel.User" Width="1.5" PointX="0.75" PointY="17.875" IsExpanded="true" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Admins_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Applicants_Jobs" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Applicants_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Products_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Comments_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Comments_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Replies_Comments" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Employees_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Followings_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Followings_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Follows_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Follows_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Jobs_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Messages_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Messages_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_OrderDetails_OrderHeads" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_OrderHeads_ShoppingCarts" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_OrderHeads_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Posts_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Reacts_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_ShoopingCarts_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Reacts_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Replies_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Requests_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_Requests_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="Friend_Finder_Social_MedialModel.FK_ShoopingCarts_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

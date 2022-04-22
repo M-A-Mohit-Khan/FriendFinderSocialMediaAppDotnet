@@ -1,0 +1,6 @@
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BEL\bin\Debug\BEL.dll
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BEL\bin\Debug\BEL.pdb
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BEL\obj\Debug\BEL.dll
+C:\Users\mamoh\Desktop\.Net Project Final\FF\FriendFinder\BEL\obj\Debug\BEL.pdb
